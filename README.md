@@ -26,8 +26,10 @@
 | John | john@john.com | 
 | Jack | jack@jack.com | 
 
-### Link each of the secondary headings to the respective checkbox items.
-
+### Link each of the seicondary headings to the respective checkbox items.
+<a name="Images"> </a> Images
 
 
 ### Once you have completed all the tasks, tick the checkboxes.
+
+<a name="theory2"> </a> 
